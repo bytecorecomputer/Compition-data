@@ -16,5 +16,14 @@
     "course": "Basic Computer",
     "photo": "1755416214019_IMG_20250817_130559.jpg",
     "createdAt": "2025-08-17T07:37:06.648Z"
+  },
+  {
+    "id": "1755416262381",
+    "username": "Rahul 2",
+    "mobile": "7017733805",
+    "email": "coderafroj@gmail.com",
+    "course": "DCA",
+    "photo": "1755416262381_IMG_20250817_130552.jpg",
+    "createdAt": "2025-08-17T07:37:57.601Z"
   }
 ]
